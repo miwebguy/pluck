@@ -28,7 +28,7 @@ is only a note.
 
 ## Installing
 
-    git clone -b v5 https://github.com/pluck-cms/pluck.git
+    git clone -b pluck5.0 https://github.com/pluck-cms/pluck.git
     # upload the contents somewhere the web server can read
     # open https://your-site/install.php in a browser
 
